@@ -106,5 +106,9 @@ files:
         CreditCalcTest('creditcalc.creditcalc').run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/projects/90/stages/502/implement
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/90/stages/502/implement">JetBrains
+    Academy</a>
+  time: Fri, 03 Jul 2020 10:39:00 UTC
 record: -1
